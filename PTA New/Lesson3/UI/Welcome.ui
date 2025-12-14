@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QWidget" name="widget" native="true">
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(255, 255, 255);
+border: 1px solid black;</string>
+      </property>
+      <widget class="QLabel" name="label_4">
+       <property name="geometry">
+        <rect>
+         <x>300</x>
+         <y>90</y>
+         <width>241</width>
+         <height>71</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">border: 0px;
+font: 100
+ italic 25pt &quot;MS Sans Serif&quot;;
+color: rgb(0, 0, 0);</string>
+       </property>
+       <property name="text">
+        <string>WELCOME</string>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="pb_start">
+       <property name="geometry">
+        <rect>
+         <x>250</x>
+         <y>200</y>
+         <width>261</width>
+         <height>81</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">font: 30pt &quot;MS Shell Dlg 2&quot;;
+background-color: rgb(255, 78, 78);
+color: rgb(255, 255, 255);
+border-radius:22px;</string>
+       </property>
+       <property name="text">
+        <string>START</string>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="pb_leave">
+       <property name="geometry">
+        <rect>
+         <x>250</x>
+         <y>320</y>
+         <width>261</width>
+         <height>81</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">font: 30pt &quot;MS Shell Dlg 2&quot;;
+background-color: rgb(255, 78, 78);
+color: rgb(255, 255, 255);
+border-radius:22px;</string>
+       </property>
+       <property name="text">
+        <string>LEAVE</string>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label">
+       <property name="geometry">
+        <rect>
+         <x>20</x>
+         <y>140</y>
+         <width>211</width>
+         <height>301</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="pixmap">
+        <pixmap>../Image/Ảnh Noel khổ dọc 1.jpg</pixmap>
+       </property>
+       <property name="scaledContents">
+        <bool>true</bool>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label_2">
+       <property name="geometry">
+        <rect>
+         <x>540</x>
+         <y>140</y>
+         <width>211</width>
+         <height>301</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="pixmap">
+        <pixmap>../Image/Ảnh Noel khổ dọc 2.jpg</pixmap>
+       </property>
+       <property name="scaledContents">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

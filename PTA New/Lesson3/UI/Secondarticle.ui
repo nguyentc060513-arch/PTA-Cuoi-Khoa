@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>812</width>
+    <height>689</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QWidget" name="widget" native="true">
+      <layout class="QVBoxLayout" name="verticalLayout_2">
+       <item>
+        <widget class="QScrollArea" name="scrollArea">
+         <property name="widgetResizable">
+          <bool>true</bool>
+         </property>
+         <widget class="QWidget" name="scrollAreaWidgetContents">
+          <property name="geometry">
+           <rect>
+            <x>0</x>
+            <y>-1430</y>
+            <width>745</width>
+            <height>2022</height>
+           </rect>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_3">
+           <item>
+            <widget class="QFrame" name="frame">
+             <property name="minimumSize">
+              <size>
+               <width>0</width>
+               <height>2000</height>
+              </size>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">background-color: rgb(255, 255, 255);
+border: 1px solid black;</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Raised</enum>
+             </property>
+             <widget class="QLabel" name="lb_sanpham1_3">
+              <property name="geometry">
+               <rect>
+                <x>40</x>
+                <y>130</y>
+                <width>681</width>
+                <height>181</height>
+               </rect>
+              </property>
+              <property name="styleSheet">
+               <string notr="true">border: 0px;
+font: 30pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(0, 0, 0);</string>
+              </property>
+              <property name="text">
+               <string>Tại đường phố New York, mọi người tập trung đông đúc để đón Giáng sinh</string>
+              </property>
+              <property name="wordWrap">
+               <bool>true</bool>
+              </property>
+             </widget>
+             <widget class="QLabel" name="label">
+              <property name="geometry">
+               <rect>
+                <x>40</x>
+                <y>560</y>
+                <width>711</width>
+                <height>1041</height>
+               </rect>
+              </property>
+              <property name="styleSheet">
+               <string notr="true">font: 17.5pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(0, 0, 0);</string>
+              </property>
+              <property name="text">
+               <string>Giáng sinh luôn mang đến cảm giác ấm áp và gần gũi, là dịp mà ai cũng muốn trao đi điều tốt đẹp cho những người quan trọng xung quanh mình. Bên cạnh những món quà cầu kỳ, sang trọng, một tấm giấy gửi thư Noel dành cho bạn bè lại trở thành món quà giản dị nhưng đầy cảm xúc, giúp lưu giữ những lời chúc chân thành nhất. Trong thời đại mọi thứ đều trở nên nhanh chóng qua tin nhắn và mạng xã hội, việc cầm trên tay một lá thư viết tay hoặc một tờ giấy trang trí theo phong cách Giáng sinh lại khiến người nhận cảm nhận được sự trân trọng và quan tâm hơn bao giờ hết.
+
+Giấy gửi thư Noel thường được thiết kế với hình ảnh quen thuộc như cây thông, người tuyết, bông tuyết hay chú tuần lộc đáng yêu. Chỉ cần một vài họa tiết đơn giản cũng đủ làm nổi bật tinh thần lễ hội. Nhưng điều khiến nó trở nên đặc biệt lại không phải ở hình thức, mà ở những dòng chữ mà bạn đặt vào đó. Một lời chúc bình an, một câu cảm ơn vì đã đồng hành trong suốt một năm, hay chỉ đơn giản là lời nhắn rằng bạn trân trọng tình bạn này đến mức nào — tất cả đều khiến trái tim người nhận ấm lên trong không khí se lạnh của mùa Noel.
+
+Nhiều người thích tự tay thiết kế giấy gửi thư Noel, bởi chính sự sáng tạo và nét bút riêng của mỗi người tạo nên sự độc đáo. Nhưng dù là mua sẵn hay tự làm, giá trị lớn nhất vẫn nằm ở cảm xúc được gửi gắm. Đối với bạn bè, đôi khi chúng ta không thường xuyên bày tỏ tình cảm, và Giáng sinh chính là thời điểm tuyệt vời để làm điều đó một cách tinh tế và chân thật. Một tấm giấy nhỏ cũng có thể mang theo những kỷ niệm, những hy vọng và những lời chúc đẹp đẽ cho năm mới.
+
+Giấy gửi thư Noel không chỉ là món quà tượng trưng cho sự quan tâm, mà còn là cầu nối gắn kết tinh thần giữa bạn bè. Nó nhắc chúng ta nhớ rằng những điều giản dị đôi khi lại có sức mạnh lớn hơn bất kỳ món quà vật chất nào. Trong mùa Giáng sinh này, hãy thử dành ra vài phút để viết một lá thư nhỏ gửi đến những người bạn thân yêu — rất có thể, đó sẽ là món quà khiến họ nhớ mãi. Chúc bạn có một mùa Noel ấm áp và tràn ngập niềm vui bên những người bạn đáng quý.</string>
+              </property>
+              <property name="wordWrap">
+               <bool>true</bool>
+              </property>
+             </widget>
+             <widget class="QWidget" name="widget_3" native="true">
+              <property name="geometry">
+               <rect>
+                <x>110</x>
+                <y>10</y>
+                <width>551</width>
+                <height>111</height>
+               </rect>
+              </property>
+              <property name="styleSheet">
+               <string notr="true">border-radius: 20px;
+background-color: rgb(255, 92, 92);
+border: 1px solid black;</string>
+              </property>
+              <widget class="QPushButton" name="pushButton_3">
+               <property name="geometry">
+                <rect>
+                 <x>10</x>
+                 <y>20</y>
+                 <width>101</width>
+                 <height>81</height>
+                </rect>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="icon">
+                <iconset>
+                 <normaloff>../Image/Logo App.png</normaloff>../Image/Logo App.png</iconset>
+               </property>
+               <property name="iconSize">
+                <size>
+                 <width>100</width>
+                 <height>100</height>
+                </size>
+               </property>
+              </widget>
+              <widget class="QPushButton" name="pb_menu">
+               <property name="geometry">
+                <rect>
+                 <x>130</x>
+                 <y>40</y>
+                 <width>131</width>
+                 <height>41</height>
+                </rect>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);</string>
+               </property>
+               <property name="text">
+                <string>Menu</string>
+               </property>
+              </widget>
+              <widget class="QPushButton" name="pb_contact">
+               <property name="geometry">
+                <rect>
+                 <x>280</x>
+                 <y>40</y>
+                 <width>121</width>
+                 <height>41</height>
+                </rect>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);</string>
+               </property>
+               <property name="text">
+                <string>Contact</string>
+               </property>
+              </widget>
+              <widget class="QPushButton" name="pb_logout">
+               <property name="geometry">
+                <rect>
+                 <x>410</x>
+                 <y>40</y>
+                 <width>121</width>
+                 <height>41</height>
+                </rect>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);</string>
+               </property>
+               <property name="text">
+                <string>Logout</string>
+               </property>
+              </widget>
+             </widget>
+             <widget class="QLabel" name="la_sanpham4_4">
+              <property name="geometry">
+               <rect>
+                <x>70</x>
+                <y>280</y>
+                <width>611</width>
+                <height>261</height>
+               </rect>
+              </property>
+              <property name="text">
+               <string/>
+              </property>
+              <property name="pixmap">
+               <pixmap>../Image/Đường phố New York.jpg</pixmap>
+              </property>
+              <property name="scaledContents">
+               <bool>true</bool>
+              </property>
+             </widget>
+             <widget class="QLabel" name="lb_sanpham1_2">
+              <property name="geometry">
+               <rect>
+                <x>40</x>
+                <y>1780</y>
+                <width>231</width>
+                <height>31</height>
+               </rect>
+              </property>
+              <property name="styleSheet">
+               <string notr="true">border: 0px;
+font: 9pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(0, 0, 0);</string>
+              </property>
+              <property name="text">
+               <string>Giấy gửi thư Noel cho bạn bè Noel</string>
+              </property>
+             </widget>
+             <widget class="QPushButton" name="pb_buy3">
+              <property name="geometry">
+               <rect>
+                <x>340</x>
+                <y>1820</y>
+                <width>93</width>
+                <height>28</height>
+               </rect>
+              </property>
+              <property name="styleSheet">
+               <string notr="true">color: rgb(0, 0, 0);</string>
+              </property>
+              <property name="text">
+               <string>Xem</string>
+              </property>
+             </widget>
+             <widget class="QLabel" name="la_sanpham1_2">
+              <property name="geometry">
+               <rect>
+                <x>40</x>
+                <y>1630</y>
+                <width>221</width>
+                <height>141</height>
+               </rect>
+              </property>
+              <property name="text">
+               <string/>
+              </property>
+              <property name="pixmap">
+               <pixmap>../Image/ban-thiep-3d-giang-sinh-noel-tayta4.jpg</pixmap>
+              </property>
+              <property name="scaledContents">
+               <bool>true</bool>
+              </property>
+             </widget>
+             <widget class="QLabel" name="lb_sanpham3_2">
+              <property name="geometry">
+               <rect>
+                <x>520</x>
+                <y>1780</y>
+                <width>221</width>
+                <height>31</height>
+               </rect>
+              </property>
+              <property name="styleSheet">
+               <string notr="true">border: 0px;
+font: 9pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(0, 0, 0);</string>
+              </property>
+              <property name="text">
+               <string>Thiếp giáng sinh ông già noel đẹp </string>
+              </property>
+             </widget>
+             <widget class="QPushButton" name="pb_buy2">
+              <property name="geometry">
+               <rect>
+                <x>580</x>
+                <y>1820</y>
+                <width>93</width>
+                <height>28</height>
+               </rect>
+              </property>
+              <property name="styleSheet">
+               <string notr="true">color: rgb(0, 0, 0);</string>
+              </property>
+              <property name="text">
+               <string>Xem</string>
+              </property>
+             </widget>
+             <widget class="QLabel" name="la_sanpham2_2">
+              <property name="geometry">
+               <rect>
+                <x>280</x>
+                <y>1630</y>
+                <width>221</width>
+                <height>141</height>
+               </rect>
+              </property>
+              <property name="text">
+               <string/>
+              </property>
+              <property name="pixmap">
+               <pixmap>../Image/thiep-3d-cay-thong-noel-dep-moi-nhat5-8318.png</pixmap>
+              </property>
+              <property name="scaledContents">
+               <bool>true</bool>
+              </property>
+             </widget>
+             <widget class="QLabel" name="la_sanpham3_2">
+              <property name="geometry">
+               <rect>
+                <x>520</x>
+                <y>1630</y>
+                <width>221</width>
+                <height>141</height>
+               </rect>
+              </property>
+              <property name="text">
+               <string/>
+              </property>
+              <property name="pixmap">
+               <pixmap>../Image/images (1).jpg</pixmap>
+              </property>
+              <property name="scaledContents">
+               <bool>true</bool>
+              </property>
+             </widget>
+             <widget class="QLabel" name="lb_sanpham2_2">
+              <property name="geometry">
+               <rect>
+                <x>310</x>
+                <y>1780</y>
+                <width>161</width>
+                <height>31</height>
+               </rect>
+              </property>
+              <property name="styleSheet">
+               <string notr="true">border: 0px;
+font: 9pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(0, 0, 0);</string>
+              </property>
+              <property name="text">
+               <string>Thiệp giáng sinh tuần lộc</string>
+              </property>
+             </widget>
+             <widget class="QPushButton" name="pb_buy1">
+              <property name="geometry">
+               <rect>
+                <x>80</x>
+                <y>1820</y>
+                <width>93</width>
+                <height>28</height>
+               </rect>
+              </property>
+              <property name="styleSheet">
+               <string notr="true">color: rgb(0, 0, 0);</string>
+              </property>
+              <property name="text">
+               <string>Xem</string>
+              </property>
+             </widget>
+             <widget class="QWidget" name="widget_2" native="true">
+              <property name="geometry">
+               <rect>
+                <x>-10</x>
+                <y>1880</y>
+                <width>751</width>
+                <height>141</height>
+               </rect>
+              </property>
+              <property name="styleSheet">
+               <string notr="true">background-color: rgb(255, 144, 107);</string>
+              </property>
+              <widget class="QLabel" name="label_4">
+               <property name="geometry">
+                <rect>
+                 <x>50</x>
+                 <y>20</y>
+                 <width>361</width>
+                 <height>71</height>
+                </rect>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">border: 0px solid black;
+color: rgb(255, 255, 255);</string>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap>../Image/Merry Christmas cooltext.png</pixmap>
+               </property>
+               <property name="scaledContents">
+                <bool>true</bool>
+               </property>
+              </widget>
+              <widget class="QPushButton" name="pb_back">
+               <property name="geometry">
+                <rect>
+                 <x>580</x>
+                 <y>20</y>
+                 <width>161</width>
+                 <height>61</height>
+                </rect>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">font: 20pt &quot;MS Shell Dlg 2&quot;;
+background-color: rgb(255, 78, 78);
+color: rgb(255, 255, 255);
+border-radius:22px;</string>
+               </property>
+               <property name="text">
+                <string>Back</string>
+               </property>
+              </widget>
+             </widget>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>812</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
